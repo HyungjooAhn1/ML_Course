@@ -1,3 +1,4 @@
-# ML_Course
+# Machine Learing Course
 
-This is a repository for the Machine Learning course in CAU by professor Kwak.
+## Purpose
+This is a repository for the **Machine Learning** course in **CAU** by professor **Kwak**.
